@@ -7,7 +7,8 @@ Tento mod přidává kompletní český překlad hry **Celeste**.
 ## 📥 Instalace
 
 ### 1️⃣ Stáhni a nainstaluj Olympus
-Olympus je oficiální mod loader pro Celeste.  
+Olympus je oficiální mod loader pro Celeste. 
+1. Klikni na tlacitko nize pro instalaci
 👉 [Stáhnout Olympus](https://github.com/EverestAPI/Olympus/releases/download/v21.01.11.07/Olympus.exe)  
  
 ---
