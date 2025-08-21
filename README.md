@@ -1,4 +1,4 @@
-Český překlad
+Celeste Český překlad
 
 Tento mod přidává kompletní český překlad hry **Celeste**.  
 
