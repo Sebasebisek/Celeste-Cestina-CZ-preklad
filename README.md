@@ -1,7 +1,5 @@
 Celeste Český překlad
 
-Tento mod přidává kompletní český překlad hry **Celeste**.  
-
 ---
 
 ## 📥 Instalace
@@ -32,7 +30,5 @@ Olympus je oficiální mod loader pro Celeste.
 
 ---
 
-## 🖼️ Ukázky
-*(sem vložíš obrázky ze hry – složka `images/`)*  
-
----
+### 4️⃣ Zapni Češtinu ve hře
+1. Otevři hru a dej **Settings > language** a změň jazyk hry na **Čeština**
