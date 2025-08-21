@@ -2,6 +2,13 @@
 
 ---
 
+### INFO
+-Celý překlad byl tvořen mnou (sebasebisek) 
+-Achievementy budete dostávat i s tímto módem.
+-Přeloženy jsou všechny dialogy/obrázky/menu/nastavení atd....
+-Dole pod návodem na instalaci je odkaz na bonusový obsah který doporučuji zkouknout až po dohrání hry. 
+---
+
 ## 📥 Instalace
 
 ### 1️⃣ Nainstaluj Olympus
@@ -41,4 +48,4 @@ Olympus je oficiální mod loader pro Celeste.
 ---
 
 ### Bonus a podpora překladu
-coming soon
+Klikni zde pro bonusový obsah po dohraní hry nebo pro dobrovolnou finanční podporu 👉 [Bonus/Podpora](buymeacoffee.com/sebasebisek)
