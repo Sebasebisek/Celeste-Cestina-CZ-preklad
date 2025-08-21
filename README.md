@@ -18,7 +18,7 @@ Olympus je oficiální mod loader pro Celeste.
 2. Klikni na **Install Everest**.  
 3. Klikni nahore na zelenou pripnutou **(stable)** verzi a dole klikni na **Install** (nainstaluje nejnovější verzi).  
 
-🖼️ *Screenshot zde ([](https://github.com/Sebasebisek/Celeste-CZ-Translation/blob/main/Sn%C3%ADmek%20obrazovky%202025-08-21%20114802.png))*  
+🖼️ *Screenshot zde (https://github.com/Sebasebisek/Celeste-CZ-Translation/blob/main/Sn%C3%ADmek%20obrazovky%202025-08-21%20114802.png)  
 
 ---
 
