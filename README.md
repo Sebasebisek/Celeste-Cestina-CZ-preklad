@@ -4,8 +4,11 @@
 
 ### INFO
 -Celý překlad byl tvořen mnou (sebasebisek) 
+
 -Achievementy budete dostávat i s tímto módem.
+
 -Přeloženy jsou všechny dialogy/obrázky/menu/nastavení atd....
+
 -Dole pod návodem na instalaci je odkaz na bonusový obsah který doporučuji zkouknout až po dohrání hry. 
 ---
 
