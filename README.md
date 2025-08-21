@@ -13,11 +13,15 @@ Olympus je oficiální mod loader pro Celeste.
 
 ### 2️⃣ Spusť Olympus a nainstaluj nejnovější Everest
 1. Otevři **Olympus**
-2. Klikni na **Install Everest**
+2. klikni na **"Manage"**
+![image alt](https://github.com/Sebasebisek/Celeste-CZ-Translation/blob/ebd3be24de40142b38ed7a94c5cf32ada9d0b4e7/20250822_004156.png)
+3. klikni na **"add"** na platformu, pres kterou Celeste chces hrat (Steam/Epic Games)
+![image alt](https://github.com/Sebasebisek/Celeste-CZ-Translation/blob/ebd3be24de40142b38ed7a94c5cf32ada9d0b4e7/20250822_004331.png)
+4. Klikni na **Install Everest**
 ![image alt](https://github.com/Sebasebisek/Celeste-CZ-Translation/blob/11330093d713fec6e0753a01ce534c286c97f3d0/20250821_130436.png)
-3. Klikni nahoře na zelenou připnutou **(stable)** verzi a dole klikni na **Install** (nainstaluje nejnovější verzi).  
+5. Klikni nahoře na zelenou připnutou **(stable)** verzi a dole klikni na **Install** (nainstaluje nejnovější verzi).  
 ![image alt](https://github.com/Sebasebisek/Celeste-CZ-Translation/blob/b5dd82d9aca6546b6b53975859103eaff68f44d2/20250821_130704.png)
-4. Pokuď vyskočí okno se zprávou "Everest installation elevation request" klikni na **"Ano"**
+6. Pokuď vyskočí okno se zprávou "Everest installation elevation request" klikni na **"Ano"**
 ![image alt](https://github.com/Sebasebisek/Celeste-CZ-Translation/blob/e0384f2f4ead18292ba0a372fc6679ad6b175c8a/20250821_130903.png)
 ---
 
