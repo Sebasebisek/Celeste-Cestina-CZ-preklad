@@ -9,7 +9,7 @@
 
 -Přeloženy jsou všechny dialogy/obrázky/menu/nastavení atd....
 
--Dole pod návodem na instalaci je odkaz na bonusový obsah který doporučuji zkouknout až po dohrání hry. 
+-Dole pod návodem je možnost dobrovolného finančního příspěvku. 
 
 ---
 
