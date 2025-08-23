@@ -5,6 +5,8 @@
 ### INFO
 -Celý překlad byl tvořen mnou (sebasebisek) 
 
+-K instalaci je potřeba vlastnit originální kopii hry
+
 -Achievementy budete dostávat i s tímto módem.
 
 -Přeloženy jsou všechny dialogy/obrázky/menu/nastavení atd....
