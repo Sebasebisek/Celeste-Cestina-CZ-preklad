@@ -51,5 +51,5 @@ Olympus je oficiální mod loader pro Celeste.
 
 ---
 
-### Bonus a podpora překladu
+### Podpora překladu
 Klikni zde pro dobrovolnou finanční podporu 👉 [Podpora](https://buymeacoffee.com/sebasebisek)
