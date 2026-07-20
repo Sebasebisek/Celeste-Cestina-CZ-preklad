@@ -34,6 +34,7 @@ Olympus je oficiální mod loader pro Celeste.
 ![image alt](https://github.com/Sebasebisek/Celeste-CZ-Translation/raw/b5dd82d9aca6546b6b53975859103eaff68f44d2/20250821_130704.png)
 6. Pokuď vyskočí okno se zprávou "Everest installation elevation request" klikni na **"Ano"**
 ![image alt](https://github.com/Sebasebisek/Celeste-CZ-Translation/raw/e0384f2f4ead18292ba0a372fc6679ad6b175c8a/20250821_130903.png)
+
 ---
 
 ### 3️⃣ Najdi a nainstaluj český překlad
