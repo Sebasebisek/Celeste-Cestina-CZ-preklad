@@ -1,3 +1,4 @@
+<div style="background-color: #121212; color: #e0e0e0; padding: 30px; border-radius: 8px;">
 ### Celeste Český překlad
 
 ---
@@ -49,6 +50,7 @@ Olympus je oficiální mod loader pro Celeste.
 ### 4️⃣ Zapni Češtinu ve hře
 1. Otevři hru a klikni na **Options > language** a vyber **"Česky"**
 ![image alt](https://github.com/Sebasebisek/Celeste-CZ-Translation/raw/e68eefe14adb53bf288f34bd076ef2bb5890865b/Sn%C3%ADmek%20obrazovky%202025-08-21%20123523.png)
+</div>
 
 ---
 
