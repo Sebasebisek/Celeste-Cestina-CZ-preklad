@@ -11,8 +11,6 @@
 
 -Přeloženy jsou všechny dialogy/obrázky/menu/nastavení atd....
 
--Dole pod návodem je možnost dobrovolného finančního příspěvku. 
-
 ---
 
 ## 📥 Instalace
@@ -53,5 +51,3 @@ Olympus je oficiální mod loader pro Celeste.
 
 ---
 
-### Podpora překladu
-Klikni zde pro dobrovolnou finanční podporu 👉 [Podpora](https://buymeacoffee.com/sebasebisek)
