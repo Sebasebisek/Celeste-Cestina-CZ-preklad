@@ -42,8 +42,7 @@ Olympus je oficiální mod loader pro Celeste.
 ![image alt](https://github.com/Sebasebisek/Celeste-CZ-Translation/raw/ebbb990945aa848d7626522416e3a0012d7bf998/20250821_131206.jpg) 
 2. Do vyhledávání napiš **"Čestina"**  
 3. u **"Celeste čeština/Český překlad pro Celeste"** Klikni na **Zelené tlačítko** pro instalaci   
-![image alt](https://github.com/Sebasebisek/Celeste-CZ-Translation/raw/abf1ca3f99928ea7fd6b1cf454f9525cf1bfef4a/20250821_131123.png)
-
+![image alt](https://github.com/Sebasebisek/Celeste-Cestina-CZ-preklad/blob/3b420ef9bff1fef9947286cc62b42ecc4796a76b/Sn%C3%ADmek%20obrazovky%202026-07-24%20102414.png)
 ---
 
 ### 4️⃣ Zapni Češtinu ve hře
